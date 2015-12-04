@@ -415,6 +415,23 @@ header {
 }
 
 /* -------------------------------------- */
+/*  VIDEO */
+/* -------------------------------------- */
+
+.center { 
+    margin: 0 auto; 
+    width: 600px; 
+}
+
+.section-video {
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/back-customers-min.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/back-customers-min.jpg);
+    background-size: cover;
+    background-attachment: fixed; 
+    color: #fff;
+}
+
+/* -------------------------------------- */
 /*  TESTIMONIALS */
 /* -------------------------------------- */
 
